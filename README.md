@@ -788,21 +788,6 @@ In your email/application:
 | Slides | Google Slides | slides.google.com |
 | Code Hosting | GitHub | github.com |
 
-### Pro Tips
-
-✅ **DO:**
-- Keep demo video under 10 minutes
-- Show both customer and admin features
-- Highlight technical skills used
-- Mention challenges you solved
-- Include setup instructions
-
-❌ **DON'T:**
-- Don't share actual database credentials
-- Don't include sensitive data in demos
-- Don't make video too long
-- Don't forget to test before sharing
-
 ---
 
 ## 📞 Support
@@ -814,10 +799,3 @@ If you face any issues:
 4. Check browser console for errors
 5. Check backend terminal for error logs
 
-## 📄 License
-
-This is an educational project for learning purposes.
-
----
-
-**Built with ❤️ using Vue.js and Node.js**
